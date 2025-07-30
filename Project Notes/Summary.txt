@@ -43,6 +43,9 @@ Benchmarking: Measure time for each step.
 Visual Inspection: Regularly check extracted frames.
 Progress Indicators: Use tqdm for long processes.
 
+
+
+
 Step 2: Player Detection
 Goal: Find and draw boxes around all players in each frame.
 
